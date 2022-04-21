@@ -1,4 +1,4 @@
-# Power-BI Company-Aquisition-Project
+# Power-BI Company-Acquisition-Project
 
 
 Optiveriance is planning to be merged with PDCL Ltd. Brown
