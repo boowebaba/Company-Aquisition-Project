@@ -12,7 +12,7 @@ auditing on the following grounds:-
 
 • What is the Total Sales
 
-• What about the Total Quantity
+• What about the Total Quantity  
 • Profit for the said period and the margin on the same.
 • Need to have a details Performance LY for any selected
 Year
