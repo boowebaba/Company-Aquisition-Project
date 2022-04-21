@@ -11,6 +11,7 @@ Justin who the Chief Data Officer along with his team started
 auditing on the following grounds:-
 
 • What is the Total Sales
+
 • What about the Total Quantity
 • Profit for the said period and the margin on the same.
 • Need to have a details Performance LY for any selected
